@@ -1,18 +1,18 @@
 {
   "$schema": "https://acode.app/schema/plugin/v0.1.0.json",
-  "id": "acode.plugin",
-  "name": "Plugin",
+  "id": "com.mesanjeet.acode.chaitheme",
+  "name": "Chai Theme",
   "main": "main.js",
   "version": "1.0.0",
-  "repository": "https://github.com/Acode-Foundation/acode-plugin.git",
+  "repository": "https://github.com/mesanjeetk/Acode-ChaiTheme.git",
   "icon": "icon.png",
-  "minVersionCode": 290,
+  "minVersionCode": 967,
   "license": "MIT",
   "keywords": [],
   "price": 0,
   "author": {
-    "name": "",
-    "email": "",
-    "github": ""
+    "name": "Sanjeet Kumar",
+    "email": "mesanjeetk1432@gmail.com",
+    "github": "https://github.com/mesanjeetk"
   }
 }
