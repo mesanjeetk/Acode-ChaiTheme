@@ -3,11 +3,12 @@
 # ☕ Chai Theme for Acode
 
 A **warm, cozy, eye-friendly dark theme** for developers who love writing code with a cup of chai by their side.
+> [!NOTE]
+> This plugin is especially for codemirror. Do not install this plugin if you are using older Ace version.
 
 ✨ Designed for long coding sessions  
 🎨 Inspired by Indian chai aesthetics  
-⚡ Built using CodeMirror 6  
-📱 Optimized for Acode Editor  
+⚡ Built for CodeMirror 6 
 
 <br/>
 
@@ -46,8 +47,8 @@ Think of it as **VS Code Dark… after a cup of masala chai**.
 
 ## 📸 Preview
 
-> Screenshots coming soon ☕  
-> (Theme looks even better in motion)
+![ScreenShot](https://raw.githubusercontent.com/mesanjeetk/Acode-ChaiTheme/main/screenshot-1.png)
+![ScreenShot](https://raw.githubusercontent.com/mesanjeetk/Acode-ChaiTheme/main/screenshot-2.png)
 
 ---
 
